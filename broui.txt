@@ -1,0 +1,29 @@
+things": [
+        {
+            "_id": "64524e6739bf0d71fa36f5a0",
+            "title": "banane",
+            "description": "vkshkjkscguj,qshkjksc",
+            "imageUrl": "https://cdn.pixabay.com/photo/2019/06/11/18/56/camera-4267692_1280.jpg",
+            "userId": "userID40282382",
+            "price": 200000,
+            "__v": 0
+        },
+        {
+            "_id": "64524fb939bf0d71fa36f5a8",
+            "title": "Mon deuxième objet",
+            "description": "Les infos de mon deuxième objet",
+            "imageUrl": "https://cdn.pixabay.com/photo/2019/06/11/18/56/camera-4267692_1280.jpg",
+            "userId": "userID40282382",
+            "price": 290000,
+            "__v": 0
+        },
+        {
+            "_id": "6452ba757663fd3f05ae8633",
+            "title": "dsjkbdjsd",
+            "description": "fvoeoegze",
+            "imageUrl": "http://www.sssvqs.com",
+            "userId": "userID40282382",
+            "price": 2000000,
+            "__v": 0
+        }
+    ]
